@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>KULKER :: HTML 5 Game - aa</title>
+     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+</head>
+	<body style="padding:0px;margin:0px">
+		<canvas id="canvas" width="400"  style="border:1px solid black" height="460"></canvas>
+	 <span id="line_log"></span>
+			<script src="js/aa-game.js"></script>
+	 <br />
+		<input type="button" value="Next" onclick="currentLevel = getLevel(currentLevelIndex); startGame()" />
+		<input type="button" value="Stop" onclick="clearInterval(raf)" />
+	</body>
+</html>
