@@ -1,3 +1,7 @@
 # aa-game
 Example HTM 5 / JavaScript aa-game Script
-![alt text](https://github.com/kulker/aa-game/blob/e41d947f9f50486a7a1b077398811aec5b997a4e/aa-game.JPG?raw=true)
+
+Six levels have been prepared for the test.
+It can be developed and more levels can be added.
+
+![alt text](https://raw.githubusercontent.com/kulker/aa-game/main/aa-game.JPG)
